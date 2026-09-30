@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2026.08.15"]
+[Round "-"]
+[White "MagnusCarlsen"]
+[Black "DenLaz"]
+[Result "1-0"]
+[CurrentPosition "8/kp3N2/p3P1pp/2P2q2/8/P7/5PPP/4R1K1 b - - 0 28"]
+[Timezone "UTC"]
+[ECO "B13"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Panov-Modern-Defense-6.Nf3"]
+[UTCDate "2026.08.15"]
+[UTCTime "16:13:04"]
+[WhiteElo "2941"]
+[BlackElo "2799"]
+[TimeControl "600"]
+[Termination "MagnusCarlsen won by resignation"]
+[StartTime "16:13:04"]
+[EndDate "2026.08.15"]
+[EndTime "16:28:36"]
+[Link "https://www.chess.com/analysis/game/live/173035197476/analysis?move=38"]
+[WhiteUrl "https://images.chesscomfiles.com/uploads/v1/user/3889224.121e2094.50x50o.c9e2d3e54344.jpg"]
+[WhiteCountry "104"]
+[WhiteTitle "GM"]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/34145346.088fe903.50x50o.e5f22a272344.webp"]
+[BlackCountry "22"]
+[BlackTitle "GM"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 a6 7. cxd5 Nxd5 8.
+Bc4 Be6 9. Ng5 Nxc3 $1 10. Bxe6 $3 Nxd1 11. Bxf7+ Kd7 12. Be6+ $1 Kc7 13. Bf4+ $1 Kb6
+14. Rxd1 Ka7 $2 15. d5 Qa5+ $1 16. Bd2 Nb4 $1 17. O-O $1 g6 18. a3 Qb5 19. Bxb4 Bg7 $1 20.
+Bxe7 $6 Rhe8 21. Bd6 h6 $6 22. Nf7 $1 Rxe6 $4 23. dxe6 Qf5 24. b4 Rc8 $6 25. Rfe1 Bc3
+26. Bc5+ Rxc5 $2 27. bxc5 Bxe1 28. Rxe1 1-0
